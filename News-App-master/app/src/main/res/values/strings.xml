@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="Get_to_know_the_news">GET TO KNOW THE NEWS</string>
+    <string name="We_will_help_you_find_the_daily_news">We will help you find the daily news</string>
+    <string name="login_button">LOGIN</string>
+    <string name="signup_button">SIGN UP</string>
+    <string name="how_we_work">HOW WE WORK?</string>
+</resources>
